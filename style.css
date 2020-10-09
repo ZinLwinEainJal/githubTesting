@@ -6,3 +6,8 @@ button
 {
     border: solid 2px green;
 }
+
+table
+{
+    background-color: chartreuse;
+}
